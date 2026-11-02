@@ -1,0 +1,3086 @@
+[
+  {
+    "name_de": "Stein",
+    "name_en": "Stone",
+    "required": 15314,
+    "stack_size": 64,
+    "farm": "Stone Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Bruchstein",
+    "name_en": "Cobblestone",
+    "required": 7525,
+    "stack_size": 64,
+    "farm": "Cobblestone Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Entrindetes Kirschholz",
+    "name_en": "Stripped Cherry Wood",
+    "required": 7128,
+    "stack_size": 64,
+    "farm": "Cherry Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Kirschholzbretter",
+    "name_en": "Cherry Planks",
+    "required": 5820,
+    "stack_size": 64,
+    "farm": "Cherry Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Sandsteinmauer",
+    "name_en": "Sandstone Wall",
+    "required": 4382,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Sandstein",
+      6,
+      6
+    ],
+    "source_hint": "Sandstein aus Sand herstellen oder in Wüsten abbauen."
+  },
+  {
+    "name_de": "Glatter Stein",
+    "name_en": "Smooth Stone",
+    "required": 3991,
+    "stack_size": 64,
+    "farm": "Stone Farm",
+    "recipe": null,
+    "source_hint": "Stein im Ofen schmelzen (Bruchstein zuerst zu Stein schmelzen)."
+  },
+  {
+    "name_de": "Glatter Sandstein",
+    "name_en": "Smooth Sandstone",
+    "required": 3924,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Sandstein im Ofen schmelzen."
+  },
+  {
+    "name_de": "Blauer Beton",
+    "name_en": "Blue Concrete",
+    "required": 3674,
+    "stack_size": 64,
+    "farm": "Concrete Factory",
+    "recipe": null,
+    "source_hint": "Betonpulver mit Wasser härten; Sand, Kies und blauer Farbstoff nötig."
+  },
+  {
+    "name_de": "Hellgraue Wolle",
+    "name_en": "Light Gray Wool",
+    "required": 3100,
+    "stack_size": 64,
+    "farm": "Wool Farm",
+    "recipe": null,
+    "source_hint": "Hellgrau gefärbte Schafe scheren; Farbstoff einplanen."
+  },
+  {
+    "name_de": "Andesit",
+    "name_en": "Andesite",
+    "required": 2817,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Entrindeter Birkenstamm",
+    "name_en": "Stripped Birch Log",
+    "required": 2542,
+    "stack_size": 64,
+    "farm": "Birch Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Bambusstufe",
+    "name_en": "Bamboo Slab",
+    "required": 2485,
+    "stack_size": 64,
+    "farm": "Bamboo Farm",
+    "recipe": [
+      "Bambusbretter",
+      3,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Hellgrauer Trockenbeton",
+    "name_en": "Light Gray Concrete Powder",
+    "required": 2475,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Blaue Wolle",
+    "name_en": "Blue Wool",
+    "required": 2366,
+    "stack_size": 64,
+    "farm": "Wool Farm",
+    "recipe": null,
+    "source_hint": "Schafe blau färben oder weiße Wolle färben; Farbstoff einplanen."
+  },
+  {
+    "name_de": "Fichtenholzbretter",
+    "name_en": "Spruce Planks",
+    "required": 2276,
+    "stack_size": 64,
+    "farm": "Spruce Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Weiße Keramik",
+    "name_en": "White Terracotta",
+    "required": 2146,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Ton zu Terrakotta brennen; für Farben Farbstoffe verwenden."
+  },
+  {
+    "name_de": "Schwarzeichenholzbretter",
+    "name_en": "Dark Oak Planks",
+    "required": 2044,
+    "stack_size": 64,
+    "farm": "Dark Oak Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Polierte Andesitstufe",
+    "name_en": "Polished Andesite Slab",
+    "required": 2015,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Polierter Andesit",
+      3,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Abgestorbener Hirnkorallenblock",
+    "name_en": "Dead Brain Coral Block",
+    "required": 1983,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Warmer Ozean: lebenden Hirnkorallenblock mit Behutsamkeit abbauen, ohne Wasser stirbt er ab."
+  },
+  {
+    "name_de": "Gemeißelte Tuffsteinziegel",
+    "name_en": "Chiseled Tuff Bricks",
+    "required": 1978,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Tuff natürlich im Untergrund abbauen (keine einfache Vanilla-Farm)."
+  },
+  {
+    "name_de": "Polierter Tuffstein",
+    "name_en": "Polished Tuff",
+    "required": 1975,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Tuff natürlich im Untergrund abbauen (keine einfache Vanilla-Farm)."
+  },
+  {
+    "name_de": "Bambustreppe",
+    "name_en": "Bamboo Stairs",
+    "required": 1948,
+    "stack_size": 64,
+    "farm": "Bamboo Farm",
+    "recipe": [
+      "Bambusbretter",
+      6,
+      4
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Birkenholztreppe",
+    "name_en": "Birch Stairs",
+    "required": 1870,
+    "stack_size": 64,
+    "farm": "Birch Tree Farm",
+    "recipe": [
+      "Birkenholzbretter",
+      6,
+      4
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Glatte Sandsteinstufe",
+    "name_en": "Smooth Sandstone Slab",
+    "required": 1735,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Glatter Sandstein",
+      3,
+      6
+    ],
+    "source_hint": "Sandstein aus Sand herstellen oder in Wüsten abbauen."
+  },
+  {
+    "name_de": "Entrindetes Birkenholz",
+    "name_en": "Stripped Birch Wood",
+    "required": 1695,
+    "stack_size": 64,
+    "farm": "Birch Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Fichtenholzstufe",
+    "name_en": "Spruce Slab",
+    "required": 1672,
+    "stack_size": 64,
+    "farm": "Spruce Tree Farm",
+    "recipe": [
+      "Fichtenholzbretter",
+      3,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Sandstein",
+    "name_en": "Sandstone",
+    "required": 1659,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Aus Sand craften (4 Sand → 1 Sandstein) oder natürlich abbauen."
+  },
+  {
+    "name_de": "Bambusfalltür",
+    "name_en": "Bamboo Trapdoor",
+    "required": 1563,
+    "stack_size": 64,
+    "farm": "Bamboo Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Steinziegel",
+    "name_en": "Stone Bricks",
+    "required": 1541,
+    "stack_size": 64,
+    "farm": "Stone Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Kies",
+    "name_en": "Gravel",
+    "required": 1536,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Kies abbauen, z. B. in Flüssen oder Ozeanen; auch Piglin-Tauschhandel möglich."
+  },
+  {
+    "name_de": "Magenta Keramik",
+    "name_en": "Magenta Terracotta",
+    "required": 1511,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Ton zu Terrakotta brennen; für Farben Farbstoffe verwenden."
+  },
+  {
+    "name_de": "Polierter Andesit",
+    "name_en": "Polished Andesite",
+    "required": 1486,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Fackel",
+    "name_en": "Torch",
+    "required": 1371,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Blauer Trockenbeton",
+    "name_en": "Blue Concrete Powder",
+    "required": 1370,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Tropfsteinblock",
+    "name_en": "Dripstone Block",
+    "required": 1317,
+    "stack_size": 64,
+    "farm": "Dripstone Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Wassereimer",
+    "name_en": "Water Bucket",
+    "required": 1247,
+    "stack_size": 1,
+    "farm": "Iron Farm",
+    "recipe": null,
+    "source_hint": "Eimer aus 3 Eisenbarren craften und an einer Wasserquelle füllen; nicht stackbar."
+  },
+  {
+    "name_de": "Andesitmauer",
+    "name_en": "Andesite Wall",
+    "required": 1236,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Andesit",
+      6,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Eichenholzbretter",
+    "name_en": "Oak Planks",
+    "required": 1225,
+    "stack_size": 64,
+    "farm": "Oak Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Mangrovenholz",
+    "name_en": "Mangrove Wood",
+    "required": 1224,
+    "stack_size": 64,
+    "farm": "Mangrove Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Geschnittener Sandstein",
+    "name_en": "Cut Sandstone",
+    "required": 1139,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Sandstein aus Sand herstellen oder in Wüsten abbauen."
+  },
+  {
+    "name_de": "Brauner Pilzblock",
+    "name_en": "Brown Mushroom Block",
+    "required": 1132,
+    "stack_size": 64,
+    "farm": "Mushroom Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Steinziegeltreppe",
+    "name_en": "Stone Brick Stairs",
+    "required": 1106,
+    "stack_size": 64,
+    "farm": "Stone Farm",
+    "recipe": [
+      "Steinziegel",
+      6,
+      4
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Schlammziegel",
+    "name_en": "Mud Bricks",
+    "required": 1036,
+    "stack_size": 64,
+    "farm": "Mud Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Farn",
+    "name_en": "Fern",
+    "required": 1003,
+    "stack_size": 64,
+    "farm": "Flower Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Schwarzeichenholzstufe",
+    "name_en": "Dark Oak Slab",
+    "required": 975,
+    "stack_size": 64,
+    "farm": "Dark Oak Tree Farm",
+    "recipe": [
+      "Schwarzeichenholzbretter",
+      3,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Schmelzofen",
+    "name_en": "Blast Furnace",
+    "required": 884,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Birkenholzfalltür",
+    "name_en": "Birch Trapdoor",
+    "required": 882,
+    "stack_size": 64,
+    "farm": "Birch Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Webstuhl",
+    "name_en": "Loom",
+    "required": 836,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Moosblock",
+    "name_en": "Moss Block",
+    "required": 763,
+    "stack_size": 64,
+    "farm": "Moss Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Birkenholzbretter",
+    "name_en": "Birch Planks",
+    "required": 756,
+    "stack_size": 64,
+    "farm": "Birch Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Steintreppe",
+    "name_en": "Stone Stairs",
+    "required": 752,
+    "stack_size": 64,
+    "farm": "Stone Farm",
+    "recipe": [
+      "Stein",
+      6,
+      4
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Bambusbretter",
+    "name_en": "Bamboo Planks",
+    "required": 731,
+    "stack_size": 64,
+    "farm": "Bamboo Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Fichtenholztreppe",
+    "name_en": "Spruce Stairs",
+    "required": 712,
+    "stack_size": 64,
+    "farm": "Spruce Tree Farm",
+    "recipe": [
+      "Fichtenholzbretter",
+      6,
+      4
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Weiße Glasscheibe",
+    "name_en": "White Stained Glass Pane",
+    "required": 645,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Entrindeter Schwarzeichenstamm",
+    "name_en": "Stripped Dark Oak Log",
+    "required": 611,
+    "stack_size": 64,
+    "farm": "Dark Oak Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Schwarzeichenholzfalltür",
+    "name_en": "Dark Oak Trapdoor",
+    "required": 602,
+    "stack_size": 64,
+    "farm": "Dark Oak Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Hellgraue Glasscheibe",
+    "name_en": "Light Gray Stained Glass Pane",
+    "required": 597,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Polierte Schwarzsteinstufe",
+    "name_en": "Polished Blackstone Slab",
+    "required": 560,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Polierter Schwarzstein",
+      3,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Steinziegelstufe",
+    "name_en": "Stone Brick Slab",
+    "required": 528,
+    "stack_size": 64,
+    "farm": "Stone Farm",
+    "recipe": [
+      "Steinziegel",
+      3,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Fichtenholzfalltür",
+    "name_en": "Spruce Trapdoor",
+    "required": 498,
+    "stack_size": 64,
+    "farm": "Spruce Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Birkenholzstufe",
+    "name_en": "Birch Slab",
+    "required": 495,
+    "stack_size": 64,
+    "farm": "Birch Tree Farm",
+    "recipe": [
+      "Birkenholzbretter",
+      3,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Rissige Steinziegel",
+    "name_en": "Cracked Stone Bricks",
+    "required": 488,
+    "stack_size": 64,
+    "farm": "Stone Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Andesitstufe",
+    "name_en": "Andesite Slab",
+    "required": 483,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Andesit",
+      3,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Fass",
+    "name_en": "Barrel",
+    "required": 458,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Eichenholzfalltür",
+    "name_en": "Oak Trapdoor",
+    "required": 431,
+    "stack_size": 64,
+    "farm": "Oak Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Geschnittene Sandsteinstufe",
+    "name_en": "Cut Sandstone Slab",
+    "required": 418,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Geschnittener Sandstein",
+      3,
+      6
+    ],
+    "source_hint": "Sandstein aus Sand herstellen oder in Wüsten abbauen."
+  },
+  {
+    "name_de": "Kerze",
+    "name_en": "Candle",
+    "required": 418,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Truhe",
+    "name_en": "Chest",
+    "required": 415,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Karmesin-Nezel",
+    "name_en": "Crimson Nylium",
+    "required": 407,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Karmesinwald im Nether; mit Behutsamkeit abbauen."
+  },
+  {
+    "name_de": "Sandsteinstufe",
+    "name_en": "Sandstone Slab",
+    "required": 399,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Sandstein",
+      3,
+      6
+    ],
+    "source_hint": "Sandstein aus Sand herstellen oder in Wüsten abbauen."
+  },
+  {
+    "name_de": "Feuerkorallenblock",
+    "name_en": "Fire Coral Block",
+    "required": 397,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Warmer Ozean; mit Behutsamkeit abbauen. Blöcke sind nicht direkt über Knochenmehl farmbar."
+  },
+  {
+    "name_de": "Fester Schlamm",
+    "name_en": "Packed Mud",
+    "required": 380,
+    "stack_size": 64,
+    "farm": "Mud Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Gelbe Kerze",
+    "name_en": "Yellow Candle",
+    "required": 364,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Niedriges Gras",
+    "name_en": "Short Grass",
+    "required": 364,
+    "stack_size": 64,
+    "farm": "Flower Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Birkenholzzaun",
+    "name_en": "Birch Fence",
+    "required": 338,
+    "stack_size": 64,
+    "farm": "Birch Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Birkenholzschild",
+    "name_en": "Birch Sign",
+    "required": 311,
+    "stack_size": 64,
+    "farm": "Birch Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Glatte Sandsteintreppe",
+    "name_en": "Smooth Sandstone Stairs",
+    "required": 289,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Glatter Sandstein",
+      6,
+      4
+    ],
+    "source_hint": "Sandstein aus Sand herstellen oder in Wüsten abbauen."
+  },
+  {
+    "name_de": "Komposter",
+    "name_en": "Composter",
+    "required": 289,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Bambusschild",
+    "name_en": "Bamboo Sign",
+    "required": 284,
+    "stack_size": 64,
+    "farm": "Bamboo Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Eisenkette",
+    "name_en": "Chain",
+    "required": 282,
+    "stack_size": 64,
+    "farm": "Iron Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Bruchsteintreppe",
+    "name_en": "Cobblestone Stairs",
+    "required": 280,
+    "stack_size": 64,
+    "farm": "Cobblestone Farm",
+    "recipe": [
+      "Bruchstein",
+      6,
+      4
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Birkenholzzauntor",
+    "name_en": "Birch Fence Gate",
+    "required": 279,
+    "stack_size": 64,
+    "farm": "Birch Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Kirschholztreppe",
+    "name_en": "Cherry Stairs",
+    "required": 276,
+    "stack_size": 64,
+    "farm": "Cherry Tree Farm",
+    "recipe": [
+      "Kirschholzbretter",
+      6,
+      4
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Leuchtflechte",
+    "name_en": "Glow Lichen",
+    "required": 269,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Steinziegelmauer",
+    "name_en": "Stone Brick Wall",
+    "required": 266,
+    "stack_size": 64,
+    "farm": "Stone Farm",
+    "recipe": [
+      "Steinziegel",
+      6,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Weiße Tulpe",
+    "name_en": "White Tulip",
+    "required": 258,
+    "stack_size": 64,
+    "farm": "Flower Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Grüne Wolle",
+    "name_en": "Green Wool",
+    "required": 255,
+    "stack_size": 64,
+    "farm": "Wool Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Verzierter Krug",
+    "name_en": "Decorated Pot",
+    "required": 254,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Aus Ziegeln oder Töpferscherben craften."
+  },
+  {
+    "name_de": "Andesittreppe",
+    "name_en": "Andesite Stairs",
+    "required": 253,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Andesit",
+      6,
+      4
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Bambuszaun",
+    "name_en": "Bamboo Fence",
+    "required": 249,
+    "stack_size": 64,
+    "farm": "Bamboo Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Eichenholzzaun",
+    "name_en": "Oak Fence",
+    "required": 246,
+    "stack_size": 64,
+    "farm": "Oak Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Entrindeter Fichtenstamm",
+    "name_en": "Stripped Spruce Log",
+    "required": 236,
+    "stack_size": 64,
+    "farm": "Spruce Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Steinsäge",
+    "name_en": "Stonecutter",
+    "required": 234,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Laterne",
+    "name_en": "Lantern",
+    "required": 226,
+    "stack_size": 64,
+    "farm": "Iron Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Weißes Glas",
+    "name_en": "White Stained Glass",
+    "required": 219,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Gemeißelter Sandstein",
+    "name_en": "Chiseled Sandstone",
+    "required": 215,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Sandstein aus Sand herstellen oder in Wüsten abbauen."
+  },
+  {
+    "name_de": "Polierte Andesittreppe",
+    "name_en": "Polished Andesite Stairs",
+    "required": 215,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Polierter Andesit",
+      6,
+      4
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Sandsteintreppe",
+    "name_en": "Sandstone Stairs",
+    "required": 209,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Sandstein",
+      6,
+      4
+    ],
+    "source_hint": "Sandstein aus Sand herstellen oder in Wüsten abbauen."
+  },
+  {
+    "name_de": "Schmiedetisch",
+    "name_en": "Smithing Table",
+    "required": 206,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Schlammziegeltreppe",
+    "name_en": "Mud Brick Stairs",
+    "required": 197,
+    "stack_size": 64,
+    "farm": "Mud Farm",
+    "recipe": [
+      "Schlammziegel",
+      6,
+      4
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Rosa Tulpe",
+    "name_en": "Pink Tulip",
+    "required": 194,
+    "stack_size": 64,
+    "farm": "Flower Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Polierter Schwarzstein",
+    "name_en": "Polished Blackstone",
+    "required": 183,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Violetter Beton",
+    "name_en": "Purple Concrete",
+    "required": 174,
+    "stack_size": 64,
+    "farm": "Concrete Factory",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Entrindetes Eichenholz",
+    "name_en": "Stripped Oak Wood",
+    "required": 173,
+    "stack_size": 64,
+    "farm": "Oak Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Polierter Schwarzsteinknopf",
+    "name_en": "Polished Blackstone Button",
+    "required": 172,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Mangrovenholzbretter",
+    "name_en": "Mangrove Planks",
+    "required": 168,
+    "stack_size": 64,
+    "farm": "Mangrove Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Graues Glas",
+    "name_en": "Gray Stained Glass",
+    "required": 167,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Hellgraues Glas",
+    "name_en": "Light Gray Stained Glass",
+    "required": 166,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Violetter Trockenbeton",
+    "name_en": "Purple Concrete Powder",
+    "required": 166,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Bienenstock",
+    "name_en": "Beehive",
+    "required": 164,
+    "stack_size": 64,
+    "farm": "Bee Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Leiter",
+    "name_en": "Ladder",
+    "required": 151,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Netherwarzenblock",
+    "name_en": "Nether Wart Block",
+    "required": 150,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Schwarzeichenholztreppe",
+    "name_en": "Dark Oak Stairs",
+    "required": 145,
+    "stack_size": 64,
+    "farm": "Dark Oak Tree Farm",
+    "recipe": [
+      "Schwarzeichenholzbretter",
+      6,
+      4
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Bambuszauntor",
+    "name_en": "Bamboo Fence Gate",
+    "required": 144,
+    "stack_size": 64,
+    "farm": "Bamboo Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Notenblock",
+    "name_en": "Note Block",
+    "required": 143,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Eichenholztreppe",
+    "name_en": "Oak Stairs",
+    "required": 138,
+    "stack_size": 64,
+    "farm": "Oak Tree Farm",
+    "recipe": [
+      "Eichenholzbretter",
+      6,
+      4
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Schlammziegelmauer",
+    "name_en": "Mud Brick Wall",
+    "required": 136,
+    "stack_size": 64,
+    "farm": "Mud Farm",
+    "recipe": [
+      "Schlammziegel",
+      6,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Gearbeitetes Bücherregal",
+    "name_en": "Chiseled Bookshelf",
+    "required": 135,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Entrindetes Fichtenholz",
+    "name_en": "Stripped Spruce Wood",
+    "required": 131,
+    "stack_size": 64,
+    "farm": "Spruce Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Räucherofen",
+    "name_en": "Smoker",
+    "required": 131,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Schwarzstein",
+    "name_en": "Blackstone",
+    "required": 131,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Knochenblock",
+    "name_en": "Bone Block",
+    "required": 129,
+    "stack_size": 64,
+    "farm": "Mob Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Violette Keramik",
+    "name_en": "Purple Terracotta",
+    "required": 129,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Ton zu Terrakotta brennen; für Farben Farbstoffe verwenden."
+  },
+  {
+    "name_de": "Polierte Schwarzsteintreppe",
+    "name_en": "Polished Blackstone Stairs",
+    "required": 125,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Polierter Schwarzstein",
+      6,
+      4
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Hebel",
+    "name_en": "Lever",
+    "required": 123,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Graue Wolle",
+    "name_en": "Gray Wool",
+    "required": 121,
+    "stack_size": 64,
+    "farm": "Wool Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Entrindetes Schwarzeichenholz",
+    "name_en": "Stripped Dark Oak Wood",
+    "required": 112,
+    "stack_size": 64,
+    "farm": "Dark Oak Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Schlammziegelstufe",
+    "name_en": "Mud Brick Slab",
+    "required": 112,
+    "stack_size": 64,
+    "farm": "Mud Farm",
+    "recipe": [
+      "Schlammziegel",
+      3,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Netherrack",
+    "name_en": "Netherrack",
+    "required": 108,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Blumentopf",
+    "name_en": "Flower Pot",
+    "required": 104,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Schwarzeichenholzschild",
+    "name_en": "Dark Oak Sign",
+    "required": 101,
+    "stack_size": 64,
+    "farm": "Dark Oak Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Weiße Kerze",
+    "name_en": "White Candle",
+    "required": 94,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Lagerfeuer",
+    "name_en": "Campfire",
+    "required": 91,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Grüner Trockenbeton",
+    "name_en": "Green Concrete Powder",
+    "required": 89,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Seelenerde",
+    "name_en": "Soul Soil",
+    "required": 86,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Birkenholzdruckplatte",
+    "name_en": "Birch Pressure Plate",
+    "required": 80,
+    "stack_size": 64,
+    "farm": "Birch Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Kirschholzfalltür",
+    "name_en": "Cherry Trapdoor",
+    "required": 78,
+    "stack_size": 64,
+    "farm": "Cherry Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Glatte Steinstufe",
+    "name_en": "Smooth Stone Slab",
+    "required": 77,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Glatter Stein",
+      3,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Grauer Teppich",
+    "name_en": "Gray Carpet",
+    "required": 73,
+    "stack_size": 64,
+    "farm": "Wool Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Tiefenschieferziegel",
+    "name_en": "Deepslate Bricks",
+    "required": 71,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Tief in der Oberwelt abbauen; Variationen über Crafting/Steinsäge."
+  },
+  {
+    "name_de": "Hellblaue glasierte Keramik",
+    "name_en": "Light Blue Glazed Terracotta",
+    "required": 68,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Ton zu Terrakotta brennen; für Farben Farbstoffe verwenden."
+  },
+  {
+    "name_de": "Schwarzeichenholzzauntor",
+    "name_en": "Dark Oak Fence Gate",
+    "required": 60,
+    "stack_size": 64,
+    "farm": "Dark Oak Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Bücherregal",
+    "name_en": "Bookshelf",
+    "required": 59,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Wirrtür",
+    "name_en": "Warped Door",
+    "required": 59,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Fichtenholzhängeschild",
+    "name_en": "Spruce Hanging Sign",
+    "required": 57,
+    "stack_size": 64,
+    "farm": "Spruce Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Schwarzsteinstufe",
+    "name_en": "Blackstone Slab",
+    "required": 54,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Schwarzstein",
+      3,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Polierte Schwarzsteinmauer",
+    "name_en": "Polished Blackstone Wall",
+    "required": 52,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Polierter Schwarzstein",
+      6,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Fichtenholztür",
+    "name_en": "Spruce Door",
+    "required": 51,
+    "stack_size": 64,
+    "farm": "Spruce Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Meeresgurke",
+    "name_en": "Sea Pickle",
+    "required": 51,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Entrindetes Mangrovenholz",
+    "name_en": "Stripped Mangrove Wood",
+    "required": 50,
+    "stack_size": 64,
+    "farm": "Mangrove Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Fichtenholzschild",
+    "name_en": "Spruce Sign",
+    "required": 50,
+    "stack_size": 64,
+    "farm": "Spruce Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Gelber Beton",
+    "name_en": "Yellow Concrete",
+    "required": 49,
+    "stack_size": 64,
+    "farm": "Concrete Factory",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Lesepult",
+    "name_en": "Lectern",
+    "required": 49,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Polierter Tiefenschiefer",
+    "name_en": "Polished Deepslate",
+    "required": 49,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Tief in der Oberwelt abbauen; Variationen über Crafting/Steinsäge."
+  },
+  {
+    "name_de": "Golddurchzogener Schwarzstein",
+    "name_en": "Gilded Blackstone",
+    "required": 48,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Bastionsruinen im Nether (mit Behutsamkeit)."
+  },
+  {
+    "name_de": "Kirschholzschild",
+    "name_en": "Cherry Sign",
+    "required": 48,
+    "stack_size": 64,
+    "farm": "Cherry Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Eichenholzstufe",
+    "name_en": "Oak Slab",
+    "required": 47,
+    "stack_size": 64,
+    "farm": "Oak Tree Farm",
+    "recipe": [
+      "Eichenholzbretter",
+      3,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Eichenholzdruckplatte",
+    "name_en": "Oak Pressure Plate",
+    "required": 48,
+    "stack_size": 64,
+    "farm": "Oak Tree Farm",
+    "recipe": null,
+    "source_hint": "Achtung: In der gelieferten Liste zweimal aufgeführt; Mengen wurden addiert."
+  },
+  {
+    "name_de": "Schwarzeichenholzzaun",
+    "name_en": "Dark Oak Fence",
+    "required": 46,
+    "stack_size": 64,
+    "farm": "Dark Oak Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Amboss",
+    "name_en": "Anvil",
+    "required": 45,
+    "stack_size": 64,
+    "farm": "Iron Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Ziegelsteinmauer",
+    "name_en": "Brick Wall",
+    "required": 43,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Ziegelsteine",
+      6,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Bogentisch",
+    "name_en": "Fletching Table",
+    "required": 42,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Fichtenholzzaun",
+    "name_en": "Spruce Fence",
+    "required": 40,
+    "stack_size": 64,
+    "farm": "Spruce Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Glocke",
+    "name_en": "Bell",
+    "required": 38,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Azaleenlaub",
+    "name_en": "Azalea Leaves",
+    "required": 37,
+    "stack_size": 64,
+    "farm": "Azalea Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Gelbe Glasscheibe",
+    "name_en": "Yellow Stained Glass Pane",
+    "required": 36,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Akazienholzstufe",
+    "name_en": "Acacia Slab",
+    "required": 35,
+    "stack_size": 64,
+    "farm": "Wood Farm",
+    "recipe": [
+      "Akazienholzbretter",
+      3,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Polierte Tiefenschiefertreppe",
+    "name_en": "Polished Deepslate Stairs",
+    "required": 35,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Polierter Tiefenschiefer",
+      6,
+      4
+    ],
+    "source_hint": "Tief in der Oberwelt abbauen; Variationen über Crafting/Steinsäge."
+  },
+  {
+    "name_de": "Strohballen",
+    "name_en": "Hay Bale",
+    "required": 35,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Eisengitter",
+    "name_en": "Iron Bars",
+    "required": 34,
+    "stack_size": 64,
+    "farm": "Iron Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Weiße Wolle",
+    "name_en": "White Wool",
+    "required": 34,
+    "stack_size": 64,
+    "farm": "Wool Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Braune Wolle",
+    "name_en": "Brown Wool",
+    "required": 33,
+    "stack_size": 64,
+    "farm": "Wool Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Grüne glasierte Keramik",
+    "name_en": "Green Glazed Terracotta",
+    "required": 32,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Ton zu Terrakotta brennen; für Farben Farbstoffe verwenden."
+  },
+  {
+    "name_de": "Kirschholztür",
+    "name_en": "Cherry Door",
+    "required": 32,
+    "stack_size": 64,
+    "farm": "Cherry Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Tiefenschieferziegelmauer",
+    "name_en": "Deepslate Brick Wall",
+    "required": 32,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Tiefenschieferziegel",
+      6,
+      6
+    ],
+    "source_hint": "Tief in der Oberwelt abbauen; Variationen über Crafting/Steinsäge."
+  },
+  {
+    "name_de": "Eichenholzzauntor",
+    "name_en": "Oak Fence Gate",
+    "required": 31,
+    "stack_size": 64,
+    "farm": "Oak Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Haken",
+    "name_en": "Tripwire Hook",
+    "required": 31,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Polierter Diorit",
+    "name_en": "Polished Diorite",
+    "required": 31,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Roter Teppich",
+    "name_en": "Red Carpet",
+    "required": 31,
+    "stack_size": 64,
+    "farm": "Wool Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Dioritmauer",
+    "name_en": "Diorite Wall",
+    "required": 30,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Diorite",
+      6,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Blitzableiter",
+    "name_en": "Lightning Rod",
+    "required": 29,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Aus 3 Kupferbarren craften."
+  },
+  {
+    "name_de": "Brauner Teppich",
+    "name_en": "Brown Carpet",
+    "required": 29,
+    "stack_size": 64,
+    "farm": "Wool Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Rote glasierte Keramik",
+    "name_en": "Red Glazed Terracotta",
+    "required": 29,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Ton zu Terrakotta brennen; für Farben Farbstoffe verwenden."
+  },
+  {
+    "name_de": "Eisentür",
+    "name_en": "Iron Door",
+    "required": 28,
+    "stack_size": 64,
+    "farm": "Iron Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Kessel",
+    "name_en": "Cauldron",
+    "required": 28,
+    "stack_size": 64,
+    "farm": "Iron Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Polierte Tiefenschiefermauer",
+    "name_en": "Polished Deepslate Wall",
+    "required": 28,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Polierter Tiefenschiefer",
+      6,
+      6
+    ],
+    "source_hint": "Tief in der Oberwelt abbauen; Variationen über Crafting/Steinsäge."
+  },
+  {
+    "name_de": "Werkbank",
+    "name_en": "Crafting Table",
+    "required": 28,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Polierte Tiefenschieferstufe",
+    "name_en": "Polished Deepslate Slab",
+    "required": 27,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Polierter Tiefenschiefer",
+      3,
+      6
+    ],
+    "source_hint": "Tief in der Oberwelt abbauen; Variationen über Crafting/Steinsäge."
+  },
+  {
+    "name_de": "Tiefenschieferfliesenmauer",
+    "name_en": "Deepslate Tile Wall",
+    "required": 27,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Tiefenschieferfliesen",
+      6,
+      6
+    ],
+    "source_hint": "Tief in der Oberwelt abbauen; Variationen über Crafting/Steinsäge."
+  },
+  {
+    "name_de": "Bienennest",
+    "name_en": "Bee Nest",
+    "required": 26,
+    "stack_size": 64,
+    "farm": "Bee Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Schwarze glasierte Keramik",
+    "name_en": "Black Glazed Terracotta",
+    "required": 26,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Ton zu Terrakotta brennen; für Farben Farbstoffe verwenden."
+  },
+  {
+    "name_de": "Polierte Diorittreppe",
+    "name_en": "Polished Diorite Stairs",
+    "required": 25,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Polierter Diorit",
+      6,
+      4
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Gelbe glasierte Keramik",
+    "name_en": "Yellow Glazed Terracotta",
+    "required": 24,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Ton zu Terrakotta brennen; für Farben Farbstoffe verwenden."
+  },
+  {
+    "name_de": "Schnee",
+    "name_en": "Snow",
+    "required": 23,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Kalzit",
+    "name_en": "Calcite",
+    "required": 21,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Mangrovenholztreppe",
+    "name_en": "Mangrove Stairs",
+    "required": 20,
+    "stack_size": 64,
+    "farm": "Mangrove Tree Farm",
+    "recipe": [
+      "Mangrovenholzbretter",
+      6,
+      4
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Rosa Teppich",
+    "name_en": "Pink Carpet",
+    "required": 19,
+    "stack_size": 64,
+    "farm": "Wool Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Tiefenschiefer",
+    "name_en": "Deepslate",
+    "required": 19,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Tief in der Oberwelt abbauen; Variationen über Crafting/Steinsäge."
+  },
+  {
+    "name_de": "Fichtenholzzauntor",
+    "name_en": "Spruce Fence Gate",
+    "required": 18,
+    "stack_size": 64,
+    "farm": "Spruce Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Pilzstiel",
+    "name_en": "Mushroom Stem",
+    "required": 18,
+    "stack_size": 64,
+    "farm": "Mushroom Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Eichenstamm",
+    "name_en": "Oak Log",
+    "required": 17,
+    "stack_size": 64,
+    "farm": "Oak Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Bruchtiefenschiefer",
+    "name_en": "Cobbled Deepslate",
+    "required": 16,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Bruchtiefenschiefermauer",
+    "name_en": "Cobbled Deepslate Wall",
+    "required": 16,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Bruchtiefenschiefer",
+      6,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Eichenholztür",
+    "name_en": "Oak Door",
+    "required": 16,
+    "stack_size": 64,
+    "farm": "Oak Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Gewachste angelaufene Kupferleuchte",
+    "name_en": "Waxed Exposed Copper Bulb",
+    "required": 16,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Karmesinfalltür",
+    "name_en": "Crimson Trapdoor",
+    "required": 16,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Nethergolderz",
+    "name_en": "Nether Gold Ore",
+    "required": 16,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Nether in goldführenden Bereichen; mit Behutsamkeit als Block mitnehmen."
+  },
+  {
+    "name_de": "Redstone-Lampe",
+    "name_en": "Redstone Lamp",
+    "required": 16,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Schildkrötenei",
+    "name_en": "Turtle Egg",
+    "required": 16,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Schildkröten nach Paarung Eier legen lassen; nur mit Behutsamkeit abbauen."
+  },
+  {
+    "name_de": "Grasblock",
+    "name_en": "Grass Block",
+    "required": 15,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Mangrovenholzstufe",
+    "name_en": "Mangrove Slab",
+    "required": 15,
+    "stack_size": 64,
+    "farm": "Mangrove Tree Farm",
+    "recipe": [
+      "Mangrovenholzbretter",
+      3,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Trichter",
+    "name_en": "Hopper",
+    "required": 15,
+    "stack_size": 64,
+    "farm": "Iron Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Schleifstein",
+    "name_en": "Grindstone",
+    "required": 14,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Werker",
+    "name_en": "Crafter",
+    "required": 14,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Mangrovenholzfalltür",
+    "name_en": "Mangrove Trapdoor",
+    "required": 13,
+    "stack_size": 64,
+    "farm": "Mangrove Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Violetter Teppich",
+    "name_en": "Purple Carpet",
+    "required": 13,
+    "stack_size": 64,
+    "farm": "Wool Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Braustand",
+    "name_en": "Brewing Stand",
+    "required": 12,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Bruchsteinstufe",
+    "name_en": "Cobblestone Slab",
+    "required": 12,
+    "stack_size": 64,
+    "farm": "Cobblestone Farm",
+    "recipe": [
+      "Bruchstein",
+      3,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Gelbe Keramik",
+    "name_en": "Yellow Terracotta",
+    "required": 12,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Ton zu Terrakotta brennen; für Farben Farbstoffe verwenden."
+  },
+  {
+    "name_de": "Magenta glasierte Keramik",
+    "name_en": "Magenta Glazed Terracotta",
+    "required": 12,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Ton zu Terrakotta brennen; für Farben Farbstoffe verwenden."
+  },
+  {
+    "name_de": "Roter Pilzblock",
+    "name_en": "Red Mushroom Block",
+    "required": 12,
+    "stack_size": 64,
+    "farm": "Mushroom Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Schwarze Kerze",
+    "name_en": "Black Candle",
+    "required": 11,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Blühendes Azaleenlaub",
+    "name_en": "Flowering Azalea Leaves",
+    "required": 10,
+    "stack_size": 64,
+    "farm": "Azalea Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Bruchsteinmauer",
+    "name_en": "Cobblestone Wall",
+    "required": 10,
+    "stack_size": 64,
+    "farm": "Cobblestone Farm",
+    "recipe": [
+      "Bruchstein",
+      6,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Kirschholzzaun",
+    "name_en": "Cherry Fence",
+    "required": 10,
+    "stack_size": 64,
+    "farm": "Cherry Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Schiene",
+    "name_en": "Rail",
+    "required": 10,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Akazienholztreppe",
+    "name_en": "Acacia Stairs",
+    "required": 9,
+    "stack_size": 64,
+    "farm": "Wood Farm",
+    "recipe": [
+      "Akazienholzbretter",
+      6,
+      4
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Gerüst",
+    "name_en": "Scaffolding",
+    "required": 9,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Kartentisch",
+    "name_en": "Cartography Table",
+    "required": 9,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Schlamm",
+    "name_en": "Mud",
+    "required": 9,
+    "stack_size": 64,
+    "farm": "Mud Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Braunes Bett",
+    "name_en": "Brown Bed",
+    "required": 8,
+    "stack_size": 1,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Entrindetes Akazienholz",
+    "name_en": "Stripped Acacia Wood",
+    "required": 8,
+    "stack_size": 64,
+    "farm": "Wood Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Glatte Quarztreppe",
+    "name_en": "Smooth Quartz Stairs",
+    "required": 8,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Glatter Quarzblock",
+      6,
+      4
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Violette glasierte Keramik",
+    "name_en": "Purple Glazed Terracotta",
+    "required": 8,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Ton zu Terrakotta brennen; für Farben Farbstoffe verwenden."
+  },
+  {
+    "name_de": "Wirrstufe",
+    "name_en": "Warped Slab",
+    "required": 8,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Wirrbretter",
+      3,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Glatter Quarzblock",
+    "name_en": "Smooth Quartz Block",
+    "required": 7,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Honigblock",
+    "name_en": "Honey Block",
+    "required": 7,
+    "stack_size": 64,
+    "farm": "Bee Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Steinstufe",
+    "name_en": "Stone Slab",
+    "required": 7,
+    "stack_size": 64,
+    "farm": "Stone Farm",
+    "recipe": [
+      "Stein",
+      3,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Azalee",
+    "name_en": "Azalea",
+    "required": 6,
+    "stack_size": 64,
+    "farm": "Azalea Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Endsteinziegelmauer",
+    "name_en": "End Stone Brick Wall",
+    "required": 6,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Endsteinziegel",
+      6,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Faden",
+    "name_en": "String",
+    "required": 6,
+    "stack_size": 64,
+    "farm": "Mob Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Gelber Teppich",
+    "name_en": "Yellow Carpet",
+    "required": 6,
+    "stack_size": 64,
+    "farm": "Wool Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Mangrovenholzzaun",
+    "name_en": "Mangrove Fence",
+    "required": 6,
+    "stack_size": 64,
+    "farm": "Mangrove Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Netherziegelzaun",
+    "name_en": "Nether Brick Fence",
+    "required": 6,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Tiefenschieferfliesen",
+    "name_en": "Deepslate Tiles",
+    "required": 6,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Tief in der Oberwelt abbauen; Variationen über Crafting/Steinsäge."
+  },
+  {
+    "name_de": "Türkiser Teppich",
+    "name_en": "Cyan Carpet",
+    "required": 6,
+    "stack_size": 64,
+    "farm": "Wool Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Violette Wolle",
+    "name_en": "Purple Wool",
+    "required": 6,
+    "stack_size": 64,
+    "farm": "Wool Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Große Amethystknospe",
+    "name_en": "Large Amethyst Bud",
+    "required": 5,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Grünes Bett",
+    "name_en": "Green Bed",
+    "required": 5,
+    "stack_size": 1,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Honigwabenblock",
+    "name_en": "Honeycomb Block",
+    "required": 5,
+    "stack_size": 64,
+    "farm": "Bee Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Mangrovenholzschild",
+    "name_en": "Mangrove Sign",
+    "required": 5,
+    "stack_size": 64,
+    "farm": "Mangrove Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Prismarintreppe",
+    "name_en": "Prismarine Stairs",
+    "required": 5,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Prismarin",
+      6,
+      4
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Roter Beton",
+    "name_en": "Red Concrete",
+    "required": 5,
+    "stack_size": 64,
+    "farm": "Concrete Factory",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Blaue glasierte Keramik",
+    "name_en": "Blue Glazed Terracotta",
+    "required": 4,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Ton zu Terrakotta brennen; für Farben Farbstoffe verwenden."
+  },
+  {
+    "name_de": "Gelber Trockenbeton",
+    "name_en": "Yellow Concrete Powder",
+    "required": 4,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Glatte Quarzstufe",
+    "name_en": "Smooth Quartz Slab",
+    "required": 4,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Glatter Quarzblock",
+      3,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Hellgraue Keramik",
+    "name_en": "Light Gray Terracotta",
+    "required": 4,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Ton zu Terrakotta brennen; für Farben Farbstoffe verwenden."
+  },
+  {
+    "name_de": "Hellgrauer Teppich",
+    "name_en": "Light Gray Carpet",
+    "required": 4,
+    "stack_size": 64,
+    "farm": "Wool Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Orange glasierte Keramik",
+    "name_en": "Orange Glazed Terracotta",
+    "required": 4,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Ton zu Terrakotta brennen; für Farben Farbstoffe verwenden."
+  },
+  {
+    "name_de": "Weiße glasierte Keramik",
+    "name_en": "White Glazed Terracotta",
+    "required": 4,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Ton zu Terrakotta brennen; für Farben Farbstoffe verwenden."
+  },
+  {
+    "name_de": "Wirrtreppe",
+    "name_en": "Warped Stairs",
+    "required": 4,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Wirrbretter",
+      6,
+      4
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Wirrzaun",
+    "name_en": "Warped Fence",
+    "required": 4,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Wirrzauntor",
+    "name_en": "Warped Fence Gate",
+    "required": 4,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Akazienholzfalltür",
+    "name_en": "Acacia Trapdoor",
+    "required": 3,
+    "stack_size": 64,
+    "farm": "Wood Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Akazienlaub",
+    "name_en": "Acacia Leaves",
+    "required": 3,
+    "stack_size": 64,
+    "farm": "Wood Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Geweihkorallenfächer",
+    "name_en": "Horn Coral Fan",
+    "required": 3,
+    "stack_size": 64,
+    "farm": "Coral Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Karmesinwurzeln",
+    "name_en": "Crimson Roots",
+    "required": 3,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Kirschsetzling",
+    "name_en": "Cherry Sapling",
+    "required": 3,
+    "stack_size": 64,
+    "farm": "Cherry Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Mangroven-Keimling",
+    "name_en": "Mangrove Propagule",
+    "required": 3,
+    "stack_size": 64,
+    "farm": "Mangrove Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Moosteppich",
+    "name_en": "Moss Carpet",
+    "required": 3,
+    "stack_size": 64,
+    "farm": "Wool Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Ofen",
+    "name_en": "Furnace",
+    "required": 3,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Plattenspieler",
+    "name_en": "Jukebox",
+    "required": 3,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Rosa Bett",
+    "name_en": "Pink Bed",
+    "required": 3,
+    "stack_size": 1,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Rote Wolle",
+    "name_en": "Red Wool",
+    "required": 3,
+    "stack_size": 64,
+    "farm": "Wool Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Blühende Azalee",
+    "name_en": "Flowering Azalea",
+    "required": 2,
+    "stack_size": 64,
+    "farm": "Azalea Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Entrindeter Mangrovenstamm",
+    "name_en": "Stripped Mangrove Log",
+    "required": 2,
+    "stack_size": 64,
+    "farm": "Mangrove Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Fichtenholzknopf",
+    "name_en": "Spruce Button",
+    "required": 2,
+    "stack_size": 64,
+    "farm": "Spruce Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Gelbe Wolle",
+    "name_en": "Yellow Wool",
+    "required": 2,
+    "stack_size": 64,
+    "farm": "Wool Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Gemeißelte Steinziegel",
+    "name_en": "Chiseled Stone Bricks",
+    "required": 2,
+    "stack_size": 64,
+    "farm": "Stone Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Glasscheibe",
+    "name_en": "Glass Pane",
+    "required": 2,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Graue Glasscheibe",
+    "name_en": "Gray Stained Glass Pane",
+    "required": 2,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Hohes Gras",
+    "name_en": "Tall Grass",
+    "required": 2,
+    "stack_size": 64,
+    "farm": "Flower Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Karmesinpilz",
+    "name_en": "Crimson Fungus",
+    "required": 2,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Kirschholzdruckplatte",
+    "name_en": "Cherry Pressure Plate",
+    "required": 2,
+    "stack_size": 64,
+    "farm": "Cherry Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Mangrovenholzzauntor",
+    "name_en": "Mangrove Fence Gate",
+    "required": 2,
+    "stack_size": 64,
+    "farm": "Mangrove Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Netherziegelmauer",
+    "name_en": "Nether Brick Wall",
+    "required": 2,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Netherziegel",
+      6,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Ockernes Froschlicht",
+    "name_en": "Ochre Froglight",
+    "required": 2,
+    "stack_size": 64,
+    "farm": "Froglight Farm",
+    "recipe": null,
+    "source_hint": "Warmer Frosch, der kleine Magmawürfel frisst."
+  },
+  {
+    "name_de": "Piglinkopf",
+    "name_en": "Piglin Head",
+    "required": 2,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Spezielle Mob-Drops; kein gewöhnlicher Farm-Drop."
+  },
+  {
+    "name_de": "Polierte Dioritstufe",
+    "name_en": "Polished Diorite Slab",
+    "required": 2,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Polierter Diorit",
+      3,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Polierter Basalt",
+    "name_en": "Polished Basalt",
+    "required": 2,
+    "stack_size": 64,
+    "farm": "Basalt Generator",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Prismarin",
+    "name_en": "Prismarine",
+    "required": 2,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Rotes Bett",
+    "name_en": "Red Bed",
+    "required": 2,
+    "stack_size": 1,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Schwarzeichenholztür",
+    "name_en": "Dark Oak Door",
+    "required": 2,
+    "stack_size": 64,
+    "farm": "Dark Oak Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Seelensand",
+    "name_en": "Soul Sand",
+    "required": 2,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Türkiser Beton",
+    "name_en": "Cyan Concrete",
+    "required": 2,
+    "stack_size": 64,
+    "farm": "Concrete Factory",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Amethysthaufen",
+    "name_en": "Amethyst Cluster",
+    "required": 1,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Birkenlaub",
+    "name_en": "Birch Leaves",
+    "required": 1,
+    "stack_size": 64,
+    "farm": "Birch Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Endertruhe",
+    "name_en": "Ender Chest",
+    "required": 1,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Fichtenstamm",
+    "name_en": "Spruce Log",
+    "required": 1,
+    "stack_size": 64,
+    "farm": "Spruce Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Grobwägeplatte",
+    "name_en": "Heavy Weighted Pressure Plate",
+    "required": 1,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Hellgraue glasierte Keramik",
+    "name_en": "Light Gray Glazed Terracotta",
+    "required": 1,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Ton zu Terrakotta brennen; für Farben Farbstoffe verwenden."
+  },
+  {
+    "name_de": "Karmesinstufe",
+    "name_en": "Crimson Slab",
+    "required": 1,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": [
+      "Karmesinbretter",
+      3,
+      6
+    ],
+    "source_hint": null
+  },
+  {
+    "name_de": "Karmesintür",
+    "name_en": "Crimson Door",
+    "required": 1,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Kirschholz",
+    "name_en": "Cherry Wood",
+    "required": 1,
+    "stack_size": 64,
+    "farm": "Cherry Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Lapislazulierz",
+    "name_en": "Lapis Lazuli Ore",
+    "required": 1,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Magmablock",
+    "name_en": "Magma Block",
+    "required": 1,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Netherwarze",
+    "name_en": "Nether Wart",
+    "required": 1,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "In Netherfestungen/Bastionen sammeln; auf Seelensand vermehren."
+  },
+  {
+    "name_de": "Pilzlicht",
+    "name_en": "Shroomlight",
+    "required": 1,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Rote Glasscheibe",
+    "name_en": "Red Stained Glass Pane",
+    "required": 1,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Rote Tulpe",
+    "name_en": "Red Tulip",
+    "required": 1,
+    "stack_size": 64,
+    "farm": "Flower Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Schwarzeichenholzdruckplatte",
+    "name_en": "Dark Oak Pressure Plate",
+    "required": 1,
+    "stack_size": 64,
+    "farm": "Dark Oak Tree Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Steindruckplatte",
+    "name_en": "Stone Pressure Plate",
+    "required": 1,
+    "stack_size": 64,
+    "farm": "Stone Farm",
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Violettes Bett",
+    "name_en": "Purple Bed",
+    "required": 1,
+    "stack_size": 1,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Weinender Obsidian",
+    "name_en": "Crying Obsidian",
+    "required": 1,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": "Piglin-Tauschhandel, zerstörte Netherportale oder Bastionsruinen."
+  },
+  {
+    "name_de": "Wirrpilz",
+    "name_en": "Warped Fungus",
+    "required": 1,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  },
+  {
+    "name_de": "Zaubertisch",
+    "name_en": "Enchanting Table",
+    "required": 1,
+    "stack_size": 64,
+    "farm": null,
+    "recipe": null,
+    "source_hint": null
+  }
+]

@@ -1,0 +1,21 @@
+OuterQueens – Design-Update (ohne Datenverlust)
+
+Du hast die vorige Version schon in VS Code laufen?
+1. In VS Code den laufenden Server mit STRG + C stoppen.
+2. Aus dieser ZIP nur die Dateien aus dem Ordner app kopieren:
+      app/page.tsx
+      app/globals.css
+      app/layout.tsx
+3. In deinem bisherigen Projekt im Ordner app diese Dateien damit ersetzen.
+4. Deine .env.local und .env.admin.local NICHT aendern.
+5. KEIN SQL erneut ausfuehren; KEINE User neu anlegen.
+6. Im alten Projektordner im VS-Code-Terminal: npm run dev
+7. Im Browser die Adresse aus dem Terminal oeffnen, z. B. http://localhost:3001.
+   Wenn du noch das alte Design siehst: Strg + Shift + R.
+
+Falls du noch gar nichts eingerichtet hast, verwende stattdessen
+das vollstaendige OuterQueens-Projekt-Archiv.
+
+Technisch bleibt die interne Login-Adresse players.blockforge.invalid
+weiterhin bestehen, damit die bestehenden Accounts funktionieren.
+Sie wird Besuchern nicht angezeigt.
