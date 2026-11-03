@@ -295,3 +295,10 @@ button:disabled { opacity: .55; cursor: not-allowed; }
   .project-label { font-size: 11px; }
   .item-count strong { font-size: 17px; }
 }
+/* Add to app/globals.css */
+.oq-admin-form{max-width:520px;margin-bottom:20px}
+.oq-team-roles{margin-bottom:20px}
+.oq-team-role-row{display:flex;align-items:center;gap:12px;padding:10px 0;border-bottom:1px solid rgba(120,155,215,.12)}
+.oq-team-role-row:last-child{border-bottom:0}
+.oq-team-role-name{flex:1;min-width:0;font-weight:600;font-size:14px}
+.oq-team-role-row select{width:132px;max-width:40%;border:1px solid rgba(130,170,230,.22);border-radius:8px;background:#13233c;color:#e5f0ff;padding:8px;font-size:13px}
